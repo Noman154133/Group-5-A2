@@ -1,6 +1,0 @@
-change log
-1.create folder, create file
-2.delete folder, delete file
-3.create new folder, file. import function add Board class
-4.add Piece class, setup draw can_place clear_lines mousePressed mouseDragged mouseReleased. and call run function
-    4.1 minor test add colour pallate
