@@ -30,8 +30,6 @@ SHAPE_TEMPLATES = [
     ([(0, 1), (1, 1), (1, 0)], 2),
 ]
 
-def draw_square(x,y,size, fill_color, stroke_color, corner_weight):
-
 class Board:
     def __init__(self, size, cell_size, origin_x, origin_y):
         self.size = size
